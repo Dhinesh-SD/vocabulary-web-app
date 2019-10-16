@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/vocabulary-web-app/static/css/main.b100e6da.chunk.css",
-    "main.js": "/vocabulary-web-app/static/js/main.de52d9a5.chunk.js",
-    "main.js.map": "/vocabulary-web-app/static/js/main.de52d9a5.chunk.js.map",
+    "main.js": "/vocabulary-web-app/static/js/main.7e4a213e.chunk.js",
+    "main.js.map": "/vocabulary-web-app/static/js/main.7e4a213e.chunk.js.map",
     "runtime-main.js": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js",
     "runtime-main.js.map": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js.map",
-    "static/js/2.bbd6406e.chunk.js": "/vocabulary-web-app/static/js/2.bbd6406e.chunk.js",
-    "static/js/2.bbd6406e.chunk.js.map": "/vocabulary-web-app/static/js/2.bbd6406e.chunk.js.map",
+    "static/js/2.61789541.chunk.js": "/vocabulary-web-app/static/js/2.61789541.chunk.js",
+    "static/js/2.61789541.chunk.js.map": "/vocabulary-web-app/static/js/2.61789541.chunk.js.map",
     "index.html": "/vocabulary-web-app/index.html",
-    "precache-manifest.35d33cb84292c3b8cb5dda1df5a5b41d.js": "/vocabulary-web-app/precache-manifest.35d33cb84292c3b8cb5dda1df5a5b41d.js",
+    "precache-manifest.bdc7d6d6df574e8fece853aebaa82445.js": "/vocabulary-web-app/precache-manifest.bdc7d6d6df574e8fece853aebaa82445.js",
     "service-worker.js": "/vocabulary-web-app/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/vocabulary-web-app/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/vocabulary-web-app/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ccd147e.js",
-    "static/js/2.bbd6406e.chunk.js",
+    "static/js/2.61789541.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.de52d9a5.chunk.js"
+    "static/js/main.7e4a213e.chunk.js"
   ]
 }
