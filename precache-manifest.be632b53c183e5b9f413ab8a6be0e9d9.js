@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7ff5b4a78c249a48032402ae6cc7433",
+    "revision": "75abce5691611b1f35bba930df250bd0",
     "url": "/vocabulary-web-app/index.html"
   },
   {
-    "revision": "04e7e8b1e9f9dce2eb4a",
-    "url": "/vocabulary-web-app/static/css/main.9a494d26.chunk.css"
+    "revision": "fba0563df0adafef3646",
+    "url": "/vocabulary-web-app/static/css/main.61c5f211.chunk.css"
   },
   {
     "revision": "2ab1019e77509f17cbb7",
     "url": "/vocabulary-web-app/static/js/2.57a23cc4.chunk.js"
   },
   {
-    "revision": "04e7e8b1e9f9dce2eb4a",
-    "url": "/vocabulary-web-app/static/js/main.b6e5ed0b.chunk.js"
+    "revision": "fba0563df0adafef3646",
+    "url": "/vocabulary-web-app/static/js/main.bf766e31.chunk.js"
   },
   {
     "revision": "4c0c7f9ae35c606e6382",
