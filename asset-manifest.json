@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vocabulary-web-app/static/css/main.c305f566.chunk.css",
-    "main.js": "/vocabulary-web-app/static/js/main.1805275e.chunk.js",
-    "main.js.map": "/vocabulary-web-app/static/js/main.1805275e.chunk.js.map",
+    "main.css": "/vocabulary-web-app/static/css/main.c54d62fb.chunk.css",
+    "main.js": "/vocabulary-web-app/static/js/main.8c6760e2.chunk.js",
+    "main.js.map": "/vocabulary-web-app/static/js/main.8c6760e2.chunk.js.map",
     "runtime-main.js": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js",
     "runtime-main.js.map": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js.map",
     "static/css/2.7abef457.chunk.css": "/vocabulary-web-app/static/css/2.7abef457.chunk.css",
     "static/js/2.cbed3fee.chunk.js": "/vocabulary-web-app/static/js/2.cbed3fee.chunk.js",
     "static/js/2.cbed3fee.chunk.js.map": "/vocabulary-web-app/static/js/2.cbed3fee.chunk.js.map",
     "index.html": "/vocabulary-web-app/index.html",
-    "precache-manifest.43f73c61a221b8aa7e2915295372b207.js": "/vocabulary-web-app/precache-manifest.43f73c61a221b8aa7e2915295372b207.js",
+    "precache-manifest.ae2bbdb302e72419b51c8f7e819726cd.js": "/vocabulary-web-app/precache-manifest.ae2bbdb302e72419b51c8f7e819726cd.js",
     "service-worker.js": "/vocabulary-web-app/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/vocabulary-web-app/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.c305f566.chunk.css.map": "/vocabulary-web-app/static/css/main.c305f566.chunk.css.map",
+    "static/css/main.c54d62fb.chunk.css.map": "/vocabulary-web-app/static/css/main.c54d62fb.chunk.css.map",
     "static/media/Home.css": "/vocabulary-web-app/static/media/dolce vita heavy bold.fc60722c.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.0ccd147e.js",
     "static/css/2.7abef457.chunk.css",
     "static/js/2.cbed3fee.chunk.js",
-    "static/css/main.c305f566.chunk.css",
-    "static/js/main.1805275e.chunk.js"
+    "static/css/main.c54d62fb.chunk.css",
+    "static/js/main.8c6760e2.chunk.js"
   ]
 }
