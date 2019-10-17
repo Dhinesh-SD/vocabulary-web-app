@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vocabulary-web-app/static/css/main.5c1d7e1c.chunk.css",
-    "main.js": "/vocabulary-web-app/static/js/main.22f2336e.chunk.js",
-    "main.js.map": "/vocabulary-web-app/static/js/main.22f2336e.chunk.js.map",
+    "main.js": "/vocabulary-web-app/static/js/main.a2ff1968.chunk.js",
+    "main.js.map": "/vocabulary-web-app/static/js/main.a2ff1968.chunk.js.map",
     "runtime-main.js": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js",
     "runtime-main.js.map": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js.map",
     "static/js/2.57a23cc4.chunk.js": "/vocabulary-web-app/static/js/2.57a23cc4.chunk.js",
     "static/js/2.57a23cc4.chunk.js.map": "/vocabulary-web-app/static/js/2.57a23cc4.chunk.js.map",
     "index.html": "/vocabulary-web-app/index.html",
-    "precache-manifest.cc5866c2fae1bac0b96d459967b4d33c.js": "/vocabulary-web-app/precache-manifest.cc5866c2fae1bac0b96d459967b4d33c.js",
+    "precache-manifest.87403468089ae7360f6b97da65e08b7e.js": "/vocabulary-web-app/precache-manifest.87403468089ae7360f6b97da65e08b7e.js",
     "service-worker.js": "/vocabulary-web-app/service-worker.js",
     "static/css/main.5c1d7e1c.chunk.css.map": "/vocabulary-web-app/static/css/main.5c1d7e1c.chunk.css.map",
     "static/media/Home.css": "/vocabulary-web-app/static/media/dolce vita heavy bold.fc60722c.woff"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0ccd147e.js",
     "static/js/2.57a23cc4.chunk.js",
     "static/css/main.5c1d7e1c.chunk.css",
-    "static/js/main.22f2336e.chunk.js"
+    "static/js/main.a2ff1968.chunk.js"
   ]
 }
