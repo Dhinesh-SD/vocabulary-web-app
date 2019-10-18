@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d3aa6e0b49c94dc474a4f9ddc24d13d",
+    "revision": "02c1ac406762ed575335e941296d7950",
     "url": "/vocabulary-web-app/index.html"
   },
   {
-    "revision": "029475cf254111d92835",
+    "revision": "3e4663cf34fdaa657016",
     "url": "/vocabulary-web-app/static/css/2.7abef457.chunk.css"
   },
   {
-    "revision": "7fccce579f6be64eacb2",
-    "url": "/vocabulary-web-app/static/css/main.2d23d484.chunk.css"
+    "revision": "008847ab92b928e4d7bf",
+    "url": "/vocabulary-web-app/static/css/main.937088b5.chunk.css"
   },
   {
-    "revision": "029475cf254111d92835",
-    "url": "/vocabulary-web-app/static/js/2.cbed3fee.chunk.js"
+    "revision": "3e4663cf34fdaa657016",
+    "url": "/vocabulary-web-app/static/js/2.454d49d3.chunk.js"
   },
   {
-    "revision": "7fccce579f6be64eacb2",
-    "url": "/vocabulary-web-app/static/js/main.1efc3b8a.chunk.js"
+    "revision": "008847ab92b928e4d7bf",
+    "url": "/vocabulary-web-app/static/js/main.e6942672.chunk.js"
   },
   {
     "revision": "4c0c7f9ae35c606e6382",

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vocabulary-web-app/static/css/main.2d23d484.chunk.css",
-    "main.js": "/vocabulary-web-app/static/js/main.1efc3b8a.chunk.js",
-    "main.js.map": "/vocabulary-web-app/static/js/main.1efc3b8a.chunk.js.map",
+    "main.css": "/vocabulary-web-app/static/css/main.937088b5.chunk.css",
+    "main.js": "/vocabulary-web-app/static/js/main.e6942672.chunk.js",
+    "main.js.map": "/vocabulary-web-app/static/js/main.e6942672.chunk.js.map",
     "runtime-main.js": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js",
     "runtime-main.js.map": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js.map",
     "static/css/2.7abef457.chunk.css": "/vocabulary-web-app/static/css/2.7abef457.chunk.css",
-    "static/js/2.cbed3fee.chunk.js": "/vocabulary-web-app/static/js/2.cbed3fee.chunk.js",
-    "static/js/2.cbed3fee.chunk.js.map": "/vocabulary-web-app/static/js/2.cbed3fee.chunk.js.map",
+    "static/js/2.454d49d3.chunk.js": "/vocabulary-web-app/static/js/2.454d49d3.chunk.js",
+    "static/js/2.454d49d3.chunk.js.map": "/vocabulary-web-app/static/js/2.454d49d3.chunk.js.map",
     "index.html": "/vocabulary-web-app/index.html",
-    "precache-manifest.7f6c882dbcb91261913fe9ad713e429a.js": "/vocabulary-web-app/precache-manifest.7f6c882dbcb91261913fe9ad713e429a.js",
+    "precache-manifest.612da39761e09cb86dd2d7919cd6d0b6.js": "/vocabulary-web-app/precache-manifest.612da39761e09cb86dd2d7919cd6d0b6.js",
     "service-worker.js": "/vocabulary-web-app/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/vocabulary-web-app/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.2d23d484.chunk.css.map": "/vocabulary-web-app/static/css/main.2d23d484.chunk.css.map",
+    "static/css/main.937088b5.chunk.css.map": "/vocabulary-web-app/static/css/main.937088b5.chunk.css.map",
     "static/media/Home.css": "/vocabulary-web-app/static/media/dolce vita heavy bold.fc60722c.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.0ccd147e.js",
     "static/css/2.7abef457.chunk.css",
-    "static/js/2.cbed3fee.chunk.js",
-    "static/css/main.2d23d484.chunk.css",
-    "static/js/main.1efc3b8a.chunk.js"
+    "static/js/2.454d49d3.chunk.js",
+    "static/css/main.937088b5.chunk.css",
+    "static/js/main.e6942672.chunk.js"
   ]
 }
