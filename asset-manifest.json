@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vocabulary-web-app/static/css/main.d43e169e.chunk.css",
+    "main.css": "/vocabulary-web-app/static/css/main.69cc6158.chunk.css",
     "main.js": "/vocabulary-web-app/static/js/main.05fd26d2.chunk.js",
     "main.js.map": "/vocabulary-web-app/static/js/main.05fd26d2.chunk.js.map",
     "runtime-main.js": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js",
@@ -9,10 +9,10 @@
     "static/js/2.1c075e23.chunk.js": "/vocabulary-web-app/static/js/2.1c075e23.chunk.js",
     "static/js/2.1c075e23.chunk.js.map": "/vocabulary-web-app/static/js/2.1c075e23.chunk.js.map",
     "index.html": "/vocabulary-web-app/index.html",
-    "precache-manifest.8122c3d286c55bedbfb86e82b9b4bf3b.js": "/vocabulary-web-app/precache-manifest.8122c3d286c55bedbfb86e82b9b4bf3b.js",
+    "precache-manifest.078b1a83cdd334211b4fdf461d9f54bc.js": "/vocabulary-web-app/precache-manifest.078b1a83cdd334211b4fdf461d9f54bc.js",
     "service-worker.js": "/vocabulary-web-app/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/vocabulary-web-app/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.d43e169e.chunk.css.map": "/vocabulary-web-app/static/css/main.d43e169e.chunk.css.map",
+    "static/css/main.69cc6158.chunk.css.map": "/vocabulary-web-app/static/css/main.69cc6158.chunk.css.map",
     "static/media/Home.css": "/vocabulary-web-app/static/media/dolce vita heavy bold.fc60722c.woff",
     "static/media/garrulity.jpg": "/vocabulary-web-app/static/media/garrulity.39fcb8f0.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.0ccd147e.js",
     "static/css/2.7abef457.chunk.css",
     "static/js/2.1c075e23.chunk.js",
-    "static/css/main.d43e169e.chunk.css",
+    "static/css/main.69cc6158.chunk.css",
     "static/js/main.05fd26d2.chunk.js"
   ]
 }
