@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/vocabulary-web-app/static/css/main.937088b5.chunk.css",
-    "main.js": "/vocabulary-web-app/static/js/main.e6942672.chunk.js",
-    "main.js.map": "/vocabulary-web-app/static/js/main.e6942672.chunk.js.map",
+    "main.css": "/vocabulary-web-app/static/css/main.b11b665a.chunk.css",
+    "main.js": "/vocabulary-web-app/static/js/main.2ab6b2a4.chunk.js",
+    "main.js.map": "/vocabulary-web-app/static/js/main.2ab6b2a4.chunk.js.map",
     "runtime-main.js": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js",
     "runtime-main.js.map": "/vocabulary-web-app/static/js/runtime-main.0ccd147e.js.map",
     "static/css/2.7abef457.chunk.css": "/vocabulary-web-app/static/css/2.7abef457.chunk.css",
-    "static/js/2.454d49d3.chunk.js": "/vocabulary-web-app/static/js/2.454d49d3.chunk.js",
-    "static/js/2.454d49d3.chunk.js.map": "/vocabulary-web-app/static/js/2.454d49d3.chunk.js.map",
+    "static/js/2.1c075e23.chunk.js": "/vocabulary-web-app/static/js/2.1c075e23.chunk.js",
+    "static/js/2.1c075e23.chunk.js.map": "/vocabulary-web-app/static/js/2.1c075e23.chunk.js.map",
     "index.html": "/vocabulary-web-app/index.html",
-    "precache-manifest.612da39761e09cb86dd2d7919cd6d0b6.js": "/vocabulary-web-app/precache-manifest.612da39761e09cb86dd2d7919cd6d0b6.js",
+    "precache-manifest.1176c8492ae1fa7d97e1dce9bc9c2616.js": "/vocabulary-web-app/precache-manifest.1176c8492ae1fa7d97e1dce9bc9c2616.js",
     "service-worker.js": "/vocabulary-web-app/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/vocabulary-web-app/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.937088b5.chunk.css.map": "/vocabulary-web-app/static/css/main.937088b5.chunk.css.map",
-    "static/media/Home.css": "/vocabulary-web-app/static/media/dolce vita heavy bold.fc60722c.woff"
+    "static/css/main.b11b665a.chunk.css.map": "/vocabulary-web-app/static/css/main.b11b665a.chunk.css.map",
+    "static/media/Home.css": "/vocabulary-web-app/static/media/dolce vita heavy bold.fc60722c.woff",
+    "static/media/garrulity.jpg": "/vocabulary-web-app/static/media/garrulity.39fcb8f0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ccd147e.js",
     "static/css/2.7abef457.chunk.css",
-    "static/js/2.454d49d3.chunk.js",
-    "static/css/main.937088b5.chunk.css",
-    "static/js/main.e6942672.chunk.js"
+    "static/js/2.1c075e23.chunk.js",
+    "static/css/main.b11b665a.chunk.css",
+    "static/js/main.2ab6b2a4.chunk.js"
   ]
 }
